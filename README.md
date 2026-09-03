@@ -1,4 +1,4 @@
-# C++ Program Portfolio 
+# C++ Programs Portfolio 
 
 <!-- <p align="center">
   <img src="./assets/banner.png" alt="Programming 1 Banner" width="70%">
